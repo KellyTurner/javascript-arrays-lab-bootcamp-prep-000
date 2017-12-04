@@ -10,7 +10,7 @@ var kittens = ["Milo", "Otis", "Garfield"]
 function destructivlyPrependKitten(Ralph) {
   kittens.unshift("Ralph")
 }
-
+var kittens = ["Milo", "Otis", "Garfield"]
 function destructivelyRemoveLastKitten() {
   kittens.slice(3)
 }

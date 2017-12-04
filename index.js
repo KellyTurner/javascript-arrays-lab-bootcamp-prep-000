@@ -10,3 +10,7 @@ var kittens = ["Milo", "Otis", "Garfield"]
 function destructivlyPrependKitten(Ralph) {
   kittens.unshift("Ralph")
 }
+
+function destructivelyRemoveLastKitten() {
+  
+}

@@ -12,5 +12,7 @@ function destructivlyPrependKitten(Ralph) {
 }
 
 function destructivelyRemoveLastKitten() {
+  kittens.shift(3)
   
+
 }
